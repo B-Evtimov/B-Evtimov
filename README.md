@@ -30,7 +30,7 @@ I build systems that <b>sense</b>, <b>think</b> and <b>stay secure</b> — from 
 
 ### 🎓 Learning
 
-SoftUni — Programming Basics (Python), Programming Fundamentals (C#), SQL (T-SQL), AI Integrations for Developers.
+SoftUni C#, python, AI Integrations for Developers.
 
 ---
 
