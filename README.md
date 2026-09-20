@@ -14,23 +14,23 @@ I build systems that <b>sense</b>, <b>think</b> and <b>stay secure</b> — from 
 
 ### 🧪 Other things I've made
 
-- **GeminiInBlender** — an AI agent that controls a 3D scene in Blender from natural language
+- **[GeminiInBlender](https://github.com/B-Evtimov/GeminiInBlender)** — an AI agent that controls a 3D scene in Blender from natural language
 - **CodeQuest** — a Duolingo-style, gamified platform for learning to code (Node.js, PostgreSQL, Redis, Docker, Stripe)
-- **Bluetooth radar**, **gas detector**, **RFID door lock**, **smart blinds** (Alexa / Google Assistant), **smart barrier**
+- **[Bluetooth radar](https://github.com/B-Evtimov/bluetooth_radar)**, **[gas detector](https://github.com/B-Evtimov/GasDetector)**, **[RFID door lock](https://github.com/B-Evtimov/RFID_Door_Lock)**, **[smart blinds](https://github.com/B-Evtimov/IoT-smart-blinds)** (Alexa / Google Assistant), **[smart barrier](https://github.com/B-Evtimov/smart_barrier)**
 - **Unity Basic** — co-author of a beginner textbook on Unity game development
 
 ### 🛠️ Tech
 
-**Languages:** C++ · Python · C# · JavaScript · SQL
-**Hardware:** ESP32 · ESP8266 · Arduino · micro:bit · Raspberry Pi · 3D printing (parametric CAD)
-**Backend:** FastAPI · Node.js / Express · PostgreSQL · SQLite · MQTT · Docker / Podman
-**AI / ML:** PyTorch · MediaPipe · OpenAI & Gemini APIs · RAG / vector DBs
-**Infra & security:** Linux · Cloudflare Tunnel · Tailscale · threat modelling · E2E encryption
+**Languages:** C++ · Python · C# · JavaScript · SQL  
+**Hardware:** ESP32 · ESP8266 · Arduino · micro:bit · Raspberry Pi · 3D printing (parametric CAD)  
+**Backend:** FastAPI · Node.js / Express · PostgreSQL · SQLite · MQTT · Docker / Podman  
+**AI / ML:** PyTorch · MediaPipe · OpenAI & Gemini APIs · RAG / vector DBs  
+**Infra & security:** Linux · Cloudflare Tunnel · Tailscale · threat modelling · E2E encryption  
 **Other:** React Native (Expo) · Unity · Blender · Shopify
 
 ### 🎓 Learning
 
-SoftUni C#, python, AI Integrations for Developers.
+SoftUni C#, Python, AI Integrations for Developers.
 
 ---
 
