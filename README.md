@@ -26,7 +26,7 @@ I build systems that <b>sense</b>, <b>think</b> and <b>stay secure</b> — from 
 
 ### 🛠️ Tech
 
-**Languages:** C++ · Python · Kotlin · C# · JavaScript / TypeScript · SQL  
+**Languages:** C# · Python ·  JavaScript / TypeScript · SQL  
 **Hardware:** ESP32 · ESP8266 · Arduino · micro:bit · Raspberry Pi · 3D printing (parametric CAD)  
 **Backend:** FastAPI · Node.js / Express · PostgreSQL · SQLite · MQTT · Docker / Podman  
 **Mobile:** Android (Jetpack Compose) · React Native (Expo)  
@@ -41,7 +41,7 @@ SoftUni — Programming Basics (Python), Programming Fundamentals (C#), AI Integ
 ### 💼 Open to work
 
 Looking for a junior / intern role in **embedded, IoT, backend or AI** — Bulgaria or remote.  
-📫 **YOUR_EMAIL_HERE** · [Instagram](https://www.instagram.com/__evtimov_)
+📫 **borisevtimov1980@gmail.com** · [Instagram](https://www.instagram.com/__evtimov_)
 
 ---
 
