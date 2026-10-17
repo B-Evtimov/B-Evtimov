@@ -22,7 +22,7 @@ I build systems that <b>sense</b>, <b>think</b> and <b>stay secure</b> — from 
 - **[Smart barrier](https://github.com/B-Evtimov/smart_barrier)** — parking barrier with license plate recognition (OpenCV + OCR)
 - **[RFID door lock](https://github.com/B-Evtimov/RFID_Door_Lock)**, **[smart blinds](https://github.com/B-Evtimov/IoT-smart-blinds)** (Alexa / Google Assistant), **[gas detector](https://github.com/B-Evtimov/GasDetector)**
 - **CodeQuest** — a gamified, Duolingo-style platform for learning to code (Node.js, PostgreSQL, Redis, Docker, Stripe). *Private.*
-- **Unity Basic** — co-author of a beginner textbook on Unity game development: https://a.co/d/05W5goBN(With pen up name)
+- **Unity Basic** — co-author of a beginner textbook on Unity game development: https://a.co/d/05W5goBN (With pen up name)
 
 ### 🛠️ Tech
 
