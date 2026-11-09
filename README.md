@@ -34,9 +34,32 @@ I build systems that <b>sense</b>, <b>think</b> and <b>stay secure</b> — from 
 **Security & infra:** Linux · threat modelling · E2E encryption · Ed25519 · GitHub Actions  
 **Other:** Unity · Blender · Shopify
 
-### 🎓 Learning
+### 🎓 Certificates
+ 
+Earned at **[SoftUni](https://softuni.bg)** — all seven with the top grade, **6.00 / 6.00**. Click **verify** to open the official certificate on softuni.bg.
+ 
+| Course | Date | Certificate |
+|:--|:--|:--:|
+| Programming Basics (Python) | July 2025 | [![verify][verify]][cert-basics] |
+| Programming Fundamentals with C# | September 2025 | [![verify][verify]][cert-fundamentals] |
+| C# Advanced | January 2026 | [![verify][verify]][cert-advanced] |
+| C# OOP | February 2026 | [![verify][verify]][cert-oop] |
+| MS SQL | May 2026 | [![verify][verify]][cert-mssql] |
+| Entity Framework Core | June 2026 | [![verify][verify]][cert-efcore] |
+| AI Integrations for Developers | June 2026 | [![verify][verify]][cert-ai] |
+ 
+⏳ In progress: **ASP.NET Fundamentals** · **ASP.NET Advanced**
+ 
+<!-- SoftUni certificate links: softuni.bg → Сертификати → each certificate's verification URL -->
+[verify]: https://img.shields.io/badge/SoftUni-verify-FFA02C?style=flat-square
+[cert-basics]: https://softuni.bg/Certificates/Details/249772/59c3f588
+[cert-fundamentals]: https://softuni.bg/Certificates/Details/254014/e67f5356
+[cert-advanced]: https://softuni.bg/Certificates/Details/256757/4cc2a9f6
+[cert-oop]: https://softuni.bg/Certificates/Details/259378/546e0910
+[cert-mssql]: https://softuni.bg/Certificates/Details/262148/681c6906
+[cert-efcore]: https://softuni.bg/Certificates/Details/263661/b6eef7ae
+[cert-ai]: https://softuni.bg/Certificates/Details/264513/8b98712d
 
-SoftUni — Programming Basics (Python), Programming Fundamentals (C#), C# Advanced, C# OOP, MS SQL, Entity Framework Core, AI Integrations for Developers.
 
 ### 💼 Open to work
 
