@@ -36,7 +36,7 @@ I build systems that <b>sense</b>, <b>think</b> and <b>stay secure</b> — from 
 
 ### 🎓 Certificates
  
-Earned at **[SoftUni](https://softuni.bg)** — all seven with the top grade, **6.00 / 6.00**. Click **verify** to open the official certificate on softuni.bg.
+Earned at **[SoftUni](https://softuni.bg)** — all eight with the top grade, **6.00 / 6.00**. Click **verify** to open the official certificate on softuni.bg.
  
 | Course | Date | Certificate |
 |:--|:--|:--:|
@@ -47,8 +47,9 @@ Earned at **[SoftUni](https://softuni.bg)** — all seven with the top grade, **
 | MS SQL | May 2026 | [![verify][verify]][cert-mssql] |
 | Entity Framework Core | June 2026 | [![verify][verify]][cert-efcore] |
 | AI Integrations for Developers | June 2026 | [![verify][verify]][cert-ai] |
+| ASP.NET Fundamentals | November 2026 | [![verify][verify]][cert-aspnet-fund] |
  
-⏳ In progress: **ASP.NET Fundamentals** · **ASP.NET Advanced**
+⏳ In progress: **ASP.NET Advanced**
  
 <!-- SoftUni certificate links: softuni.bg → Сертификати → each certificate's verification URL -->
 [verify]: https://img.shields.io/badge/SoftUni-verify-FFA02C?style=flat-square
@@ -59,7 +60,7 @@ Earned at **[SoftUni](https://softuni.bg)** — all seven with the top grade, **
 [cert-mssql]: https://softuni.bg/Certificates/Details/262148/681c6906
 [cert-efcore]: https://softuni.bg/Certificates/Details/263661/b6eef7ae
 [cert-ai]: https://softuni.bg/Certificates/Details/264513/8b98712d
-
+[cert-aspnet-fund]: https://softuni.bg/Certificates/Details/267124/ed46a01d
 
 ### 💼 Open to work
 
